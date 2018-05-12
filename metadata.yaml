@@ -1,0 +1,33 @@
+_repo: A-Frog-He-Would-A-Wooing-Go_14077
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14077-h/images/bk-cover.jpg
+creator:
+  author:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+description: Folk-song lyrics with illustrations by a notable nineteenth-century English
+  illustrator.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Picture books for children'
+- !lcsh 'Folk songs, English'
+- !lcc 'PZ'
+- !lcsh 'Frogs -- Juvenile poetry'
+title: A Frog He Would A-Wooing Go
+url: http://www.gutenberg.org/ebooks/14077
